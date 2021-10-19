@@ -48,7 +48,7 @@ Press Enter To Type the commands.<br />
 
 
 ### These are the commands allowed :-<br />
-<br />
+
 - search <file/dir Path><br />
 - goto <file/dir Path><br />
 - create_file<br />
