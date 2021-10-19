@@ -38,7 +38,6 @@ q - Exit the application.<br />
 <br />
 
 ## Command Mode 
-<br />
 This mode is the Second Mode of our Application.<br />
 Works in Canonical mode.<br />
 Before Each command :-<br />
