@@ -48,16 +48,16 @@ Press Enter To Type the commands.
 
     These are the commands allowed :-
 
->>> search <file/dir Path>
-    goto <file/dir Path>
-    create_file
-    create_dir <dir. name>
-    rename <old file/dir name> <new file/dir name>
-    move <source_file(s)/dir(s) path> <destination_directory>
-    copy <source_file(s)/dir(s) path> <destination_directory>
-    delete_file
-    delete_dir
-    mydir //Extra cmd to print cwd
+>    search <file/dir Path>
+>    goto <file/dir Path>
+>    create_file
+>    create_dir <dir. name>
+>    rename <old file/dir name> <new file/dir name>
+>    move <source_file(s)/dir(s) path> <destination_directory>
+>    copy <source_file(s)/dir(s) path> <destination_directory>
+>    delete_file
+>    delete_dir
+>    mydir //Extra cmd to print cwd
 
 
 
