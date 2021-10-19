@@ -36,7 +36,7 @@ Home/h - Go to the home dir/(/home/user).<br />
 q - Exit the application.<br />
 ':' - Enter in the Command Mode.<br />
 <br />
-<br />
+
 ## Command Mode 
 <br />
 This mode is the Second Mode of our Application.<br />
