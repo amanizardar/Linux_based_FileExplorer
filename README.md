@@ -7,7 +7,7 @@
 ***
 
                              
-##Assumptions:-
+## Assumptions:-
 
 \~ means Home, Means the Dir from where we started our application/File_Explorer.
 . Means Currnt working Directory.
@@ -19,7 +19,7 @@ esc to goto normal mode ,
 Enter to type the commands.
 
 
-##Normal Mode 
+## Normal Mode 
 
 This is the default mode of our application.
 it works in non-canonical mode.
@@ -37,7 +37,7 @@ q - Exit the application.
 ':' - Enter in the Command Mode.
 
 
-##Command Mode 
+## Command Mode 
 
 This mode is the Second Mode of our Application.
 Works in Canonical mode.
