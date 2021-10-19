@@ -9,56 +9,56 @@
                              
 ## Assumptions:-
 
-\~ means Home, Means the Dir from where we started our application/File_Explorer.
-. Means Currnt working Directory.
-/ Gives path from the root of the system.
+\~ means Home, Means the Dir from where we started our application/File_Explorer.<br />
+. Means Currnt working Directory.<br />
+/ Gives path from the root of the system.<br />
 
-Before each command in command mode :- 
-Press q to exit, 
-esc to goto normal mode , 
-Enter to type the commands.
+Before each command in command mode :- <br />
+Press q to exit, <br />
+esc to goto normal mode , <br />
+Enter to type the commands.<br />
 
 
 ## Normal Mode 
 
-This is the default mode of our application.
-it works in non-canonical mode.
-for each of the dir. it prints all the contents like files name, file size ,Ownership and Last modified time.
-Handles the vertical overflow by k and l keys.
-on Pressing Enter on an Entry if it is Directory then its content will be displayed or if it is a file then in a new window that file will be opened in default application.
-
-Left arrow - it will take or display the content of the previous directory if exists.
-Right arrow - it will take or display the content of the Next directory if exists.
-up arrow - Navigate up.
-Down arrow - Navigate Down.
-Backspace - Go to the parent Directory.
-Home/h - Go to the home dir/(/home/user).
-q - Exit the application.
-':' - Enter in the Command Mode.
-
-
+This is the default mode of our application.<br />
+it works in non-canonical mode.<br />
+for each of the dir. it prints all the contents like files name, file size ,Ownership and Last modified time.<br />
+Handles the vertical overflow by k and l keys.<br />
+on Pressing Enter on an Entry if it is Directory then its content will be displayed or if it is a file then in a new window that file will be opened in default application.<br />
+<br />
+Left arrow - it will take or display the content of the previous directory if exists.<br />
+Right arrow - it will take or display the content of the Next directory if exists.<br />
+up arrow - Navigate up.<br />
+Down arrow - Navigate Down.<br />
+Backspace - Go to the parent Directory.<br />
+Home/h - Go to the home dir/(/home/user).<br />
+q - Exit the application.<br />
+':' - Enter in the Command Mode.<br />
+<br />
+<br />
 ## Command Mode 
+<br />
+This mode is the Second Mode of our Application.<br />
+Works in Canonical mode.<br />
+Before Each command :-<br />
+Press q to Exit.<br />
+Press Esc to return to the Normal Mode<br />
+Press Enter To Type the commands.<br />
 
-This mode is the Second Mode of our Application.
-Works in Canonical mode.
-Before Each command :-
-Press q to Exit.
-Press Esc to return to the Normal Mode
-Press Enter To Type the commands.
 
-
-### These are the commands allowed :-
-
-- search <file/dir Path>
-- goto <file/dir Path>
-- create_file
-- create_dir <dir. name>
-- rename <old file/dir name> <new file/dir name>
-- move <source_file(s)/dir(s) path> <destination_directory>
-- copy <source_file(s)/dir(s) path> <destination_directory>
-- delete_file
-- delete_dir
-- mydir //Extra cmd to print cwd
+### These are the commands allowed :-<br />
+<br />
+- search <file/dir Path><br />
+- goto <file/dir Path><br />
+- create_file<br />
+- create_dir <dir. name><br />
+- rename <old file/dir name> <new file/dir name><br />
+- move <source_file(s)/dir(s) path> <destination_directory><br />
+- copy <source_file(s)/dir(s) path> <destination_directory><br />
+- delete_file<br />
+- delete_dir<br />
+- mydir //Extra cmd to print cwd<br />
 
 
 
