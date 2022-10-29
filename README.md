@@ -1,4 +1,4 @@
-# Linux File Explorer.
+# LINUX TERMINAL BASED FILE EXPLORER.
 Developed a terminal-based file explorer in non-canonical mode with a limited feature set. It provides normal mode and command mode.In normal mode, the application shows current directory contents. Users can navigate in directories using the arrow key and scrolling keys, also has access to forward-history, backward history, and parent directory, and can resize the window size.In command mode, the user can copy, create, delete, search, etc. by providing path and files/directories names. Commands are implemented through appropriate system calls.Technologies used : C++, POSIX System calls.
 
 ### CAPABLE OF DOING FILE OPERATION AND EXPLORATION. RUNS IN TWO MODES :-
